@@ -13,4 +13,5 @@ Desde a descoberta do DNA por James Watson e Francis Crick em 1953, o nosso ente
 No cerne desse conhecimento está o dogma central da biologia, proposto por Francis Crick em 1958. Esse dogma descreve o fluxo preciso de informação genética dentro das células, desde a sequência de DNA até a produção de proteínas. A informação contida no DNA é transcrita para o RNA mensageiro (mRNA) por meio do processo de transcrição, e esse mRNA, por sua vez, é traduzido pelos ribossomos em cadeias de aminoácidos, que compõem as proteínas.
 
 <img src= "https://github.com/Illuminis-CNPEM/ProtKAGG/blob/4a2d1a6bd4e615d03ba0bf8b66a519388db85037/imagens/dogma%20central%20da%20biologia.png" width="50%" height="50%">
+
 > Representação visual do dogma central da biologia molecular. É importante mencionar que a descoberta da transcrição reversa, posterior à proposta inicial do dogma central, revelou a capacidade de certos vírus de converter o RNA em DNA, desafiando o fluxo tradicional de informação genética e ampliando ainda mais nosso conhecimento sobre a complexidade dos processos biológicos.
