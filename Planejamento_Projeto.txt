@@ -1,0 +1,28 @@
+###Anotações para os progamadores do projeto:
+
+Anelise:
+
+- Fazer um notebook de interface que chame todas funções de forma a atender o input dos usuários;
+	- Usar de inspiração o código 'ux_inter' do code bruto
+	- Usar a lib pretty print 'https://docs.python.org/3/library/pprint.html'
+	- Adicionar as fotos
+
+Gabriela:
+
+- Escrever o README;
+	- Deve explicar o input e os outputs tanto na teoria quanto na prática.
+	- Abordar utilidades
+	- Prepará-lo de forma bonita ao usuário
+
+Torquato:
+
+- Testar o cógido;
+	- Realizar relatórios em forma de blocos de notas
+	- retornar à Kramer para alteração, ou alterar por si o código para corrigir
+
+Kramer:
+
+- Alterar o código e corrigir bugs relatado;
+	- Corrigir
+	- Retornar a Anelise para refazer a parte da interface
+	- Retornar a Gabi para alterar o README
