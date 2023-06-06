@@ -1,4 +1,4 @@
-de3def dna_5_3_para_rna_5_3(dna):
+def dna_5_3_para_rna_5_3(dna):
     '''
     Transforma uma string que representa uma fita de DNA em uma string que representa uma fita de RNA
     
@@ -18,19 +18,6 @@ de3def dna_5_3_para_rna_5_3(dna):
         if c not in ['A', 'G', 'C', 'U']: #Se a base não for A G C ou U
             rna = rna.replace(c, '') #Apaga a base
     return rna
-
-def protein_list_to_str(prot):
-    '''
-    Transforma uma lista de proteína numa string
-    
-    args:
-        prot = uma lista de aminoácidos
-        
-    return:
-        prot_2 = a lista de aminoácidos em string
-    '''
-    prot_2 = ''.join(prot)
-    return prot_2
 
 def rna_to_codon(rna):
     '''
