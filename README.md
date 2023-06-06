@@ -12,6 +12,9 @@
 - Depois de retornar os três frames, ele vai dar possíveis proteínas que podem ser formadas a partir de cada frame. 
 
 **Explicação dos arquivos:**
+- Até o momento (06/06/23), conseguimos pegar uma sequência de DNA fornecida pelo usuário e a partir dela gerar os frames (3 frames) e possíveis proteínas codificadas por essa sequência.
+- A partir do código bruto pegamos as funções necessárias e colocamos em um .py. Para a criação de uma possível interface do usuário utilizamos esse .py para organizar e sintetizar o código, para ter uma visão mais clara e objetiva do projeto.
+- Além disso, também criamos uma logo para o projeto; O nome do programa foi inspirado nos integrantes do grupo ("P" de Pedro Kramer, "A" de Anelise, e os "G"s de Gabriel e Gabriela).
 - Documento inicial ProtKAGG.pdf: arquivo em PDF do primeiro planejamento do ProtKagg e proposta do projeto
 
 Desde a descoberta do DNA por James Watson e Francis Crick em 1953, o nosso entendimento sobre a vida e seus mecanismos fundamentais de funcionamento tem se expandido significativamente. O DNA é a molécula responsável por armazenar e transmitir as informações essenciais para a vida tal como a conhecemos.
