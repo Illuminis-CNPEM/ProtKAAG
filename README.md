@@ -17,6 +17,7 @@
 - Além disso, também criamos uma logo para o projeto; O nome do programa foi inspirado nos integrantes do grupo ("P" de Pedro Kramer, "A" de Anelise, e os "G"s de Gabriel e Gabriela).
 - *Documento inicial ProtKAGG.pdf: arquivo em PDF do primeiro planejamento do ProtKagg e proposta do projeto*
 
+## História e conceitos biológicos
 Desde a descoberta do DNA por James Watson e Francis Crick em 1953, o nosso entendimento sobre a vida e seus mecanismos fundamentais de funcionamento tem se expandido significativamente. O DNA é a molécula responsável por armazenar e transmitir as informações essenciais para a vida tal como a conhecemos.
  
 <img src= "https://github.com/Illuminis-CNPEM/ProtKAAG/blob/dede25006199420969ac0e18d4c72da662a71b0b/imagem%20watson%20e%20crick.png" width="50%" height="50%">
