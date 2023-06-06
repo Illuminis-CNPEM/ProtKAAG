@@ -1,6 +1,9 @@
 # ProtKAGG
 - Autores do projeto: Anelise Gonçalves, Gabriel Torquato, Gabriela Frajtag e Pedro Kramer
 
+**Como o código funciona?**
+- 
+
 Explicação dos arquivos: 
 - Documento inicial ProtKAGG.pdf: arquivo em PDF do primeiro planejamento do ProtKagg e proposta do projeto
 
