@@ -2,6 +2,7 @@
 - Autores do projeto: Anelise Gonçalves, Gabriel Torquato, Gabriela Frajtag e Pedro Kramer
 
 **Como o código funciona?**
+- Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user"
 - Inicialmente, o usuário deverá fornecer uma sequência de DNA. 
 - O código irá perguntar ao usuário se aquele DNA representa uma sequência codificante. 
 ***O que seria a região de codificação?***   
