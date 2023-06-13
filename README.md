@@ -4,6 +4,8 @@
 **Como o código funciona?**
 - Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user"
 - Inicialmente, o usuário deverá fornecer uma sequência de DNA. 
+- Foram disponibilizadas algumas sequências de proteínas para testes, que podem ser encontradas em "Exemplos"
+(https://github.com/Illuminis-CNPEM/ProtKAGG/blob/main/Exemplos)
 - O código irá perguntar ao usuário se aquele DNA representa uma sequência codificante. 
 ***O que seria a região de codificação?***   
 - A região de codificação de um gene, também conhecida e abreviada na literatura em inglês como CDS (de coding DNA sequence), é uma porção de DNA de um gene ou RNA que codifica para proteína. A região geralmente começa na extremidade 5 linha por um códon de início e termina na extremidade 3 linha com um códon de parada. 
