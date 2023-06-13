@@ -1,0 +1,28 @@
+UUU: f UUC: f UUA: l UUG: l - Fenilalanina (f) Leucina (l)
+UCU: s UCC: s UCA: s UCG: s - Serina (s)
+UAU: y UAC: y UAA: * UAG: * - Tirosina (y) Códons de terminação (*)
+UGU: c UGC: c UGA: * UGG: w - Cisteína (c) Triptofano (w)
+CUU: l CUC: l CUA: l CUG: l - Leucina (l)
+CCU: p CCC: p CCA: p CCG: p - Prolina (p)
+CAU: h CAC: h CAA: q CAG: q - Histidina (h) Glutamina (q)
+CGU: r CGC: r CGA: r CGG: r - Arginina (r)
+AUU: i AUC: i AUA: i AUG: m - Isoleucina (i) Metionina (m, codon de início)
+ACU: t ACC: t ACA: t ACG: t - Treonina (t)
+AAU: n AAC: n AAA: k AAG: k - Asparagina (n) Lisina (k)
+AGU: s AGC: s AGA: r AGG: r - Serina (s) Arginina (r)
+GUU: v GUC: v GUA: v GUG: v - Valina (v)
+GCU: a GCC: a GCA: a GCG: a - Alanina (a)
+GAU: d GAC: d GAA: e GAG: e - Ácido aspártico (d) Ácido glutâmico (e)
+GGU: g GGC: g GGA: g GGG: g - Glicina (g)
+
+*Explicativo*
+alanina (a), arginina (r), asparagina (n)
+ácido aspártico (d), cisteína (c), glutamina (q)
+ácido glutâmico (e), glicina (g), histidina (h)
+isoleucina (i), leucina (l), lisina (k)
+metionina (m), fenilalanina (f), prolina (p)
+serina (s), treonina (t), triptofano (w), tirosina (y), valina (v)
+
+
+
+
