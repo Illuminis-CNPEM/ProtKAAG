@@ -4,7 +4,7 @@ Anelise:
 
 - Fazer um notebook de interface que chame todas funções de forma a atender o input dos usuários;
 	- Usar de inspiração o código 'ux_inter' do code bruto
-	- Usar a lib pretty print 'https://docs.python.org/3/library/pprint.html'
+	- Fazer uptade do Read me com informações úteis
 	- Adicionar as fotos
 
 Gabriela:
