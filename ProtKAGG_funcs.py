@@ -1,4 +1,4 @@
-de3def dna_5_3_para_rna_5_3(dna):
+def dna_5_3_para_rna_5_3(dna):
     '''
     Transforma uma string que representa uma fita de DNA em uma string que representa uma fita de RNA
     
