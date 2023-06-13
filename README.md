@@ -6,8 +6,9 @@
 - Inicialmente, o usuário deverá fornecer uma sequência de DNA. 
 - O código irá perguntar ao usuário se aquele DNA representa uma sequência codificante. 
 ***O que seria a região de codificação?***   
-- A região de codificação de um gene, também conhecida e abreviada na literatura em inglês como CDS (de coding DNA sequence), é uma porção de DNA de um gene ou RNA que codifica para proteína. A região geralmente começa na extremidade 5' por um codão de início e termina na extremidade 3' com um codão de parada. 
-(fonte: https://pt.wikipedia.org/wiki/Regi%C3%A3o_de_codifica%C3%A7%C3%A3o)
+- A região de codificação de um gene, também conhecida e abreviada na literatura em inglês como CDS (de coding DNA sequence), é uma porção de DNA de um gene ou RNA que codifica para proteína. A região geralmente começa na extremidade 5 linha por um códon de início e termina na extremidade 3 linha com um códon de parada. 
+(fonte: https://pt.wikipedia.org/wiki/Regi%C3%A3o_de_codifica%C3%A7%C3%A3o).
+- Para entender um pouco do que seriam a tradução do códon para aminoácido seria importante acessar o arquivo "Dicionário de Códons".
 - Se ele representa uma região inteiramente codificante, o código vai retornar apenas o RNA correspondente e qual proteína seria.
 - Caso ele não represente uma região inteiramente codificante, o código vai retornar o RNA correspondente, 3 frames possíveis. Esses frames se referem a maneira como a sequência é lida e traduzida em proteínas. O DNA é composto por uma sequência de nucleotídeos, que podem ser agrupados em conjuntos de 3, chamados de "códons". Cada códon corresponde a um amnoácido específico.
 - Depois de retornar os três frames, ele vai dar possíveis proteínas que podem ser formadas a partir de cada frame. 
