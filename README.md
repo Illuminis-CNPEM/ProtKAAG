@@ -2,7 +2,7 @@
 - Autores do projeto: Anelise Gonçalves, Gabriel Torquato, Gabriela Frajtag e Pedro Kramer
 
 **Como o código funciona?**
-- Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user."
+- Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user.ipynb"
 - Inicialmente, o usuário deverá fornecer uma sequência de DNA. 
 - Foram disponibilizadas algumas sequências de proteínas para testes, que podem ser encontradas em "Exemplos"
 (https://github.com/Illuminis-CNPEM/ProtKAGG/blob/main/Exemplos)
