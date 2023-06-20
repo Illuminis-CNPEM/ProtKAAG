@@ -2,7 +2,7 @@
 - Autores do projeto: Anelise Gonçalves, Gabriel Torquato, Gabriela Frajtag e Pedro Kramer
 
 **Como o código funciona?**
-- Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user"
+- Para observar o funcionamento do código, deve-se acessar o arquivo "ProtKAGG_user."
 - Inicialmente, o usuário deverá fornecer uma sequência de DNA. 
 - Foram disponibilizadas algumas sequências de proteínas para testes, que podem ser encontradas em "Exemplos"
 (https://github.com/Illuminis-CNPEM/ProtKAGG/blob/main/Exemplos)
@@ -17,7 +17,7 @@
 - Para descobrir qual a sua proteína, você pode visitar o site https://www.ebi.ac.uk/Tools/sss/fasta/ 
 
 **Explicação dos arquivos:**
-- Até o momento (06/06/23), conseguimos pegar uma sequência de DNA fornecida pelo usuário e a partir dela gerar os frames (3 frames) e possíveis proteínas codificadas por essa sequência.
+- Conseguimos pegar uma sequência de DNA fornecida pelo usuário e a partir dela gerar os frames (3 frames) e possíveis proteínas codificadas por essa sequência.
 - A partir do código bruto pegamos as funções necessárias e colocamos em um .py. Para a criação de uma possível interface do usuário utilizamos esse .py para organizar e sintetizar o código, para ter uma visão mais clara e objetiva do projeto.
 - Além disso, também criamos uma logo para o projeto; O nome do programa foi inspirado nos integrantes do grupo ("P" de Pedro Kramer, "A" de Anelise, e os "G"s de Gabriel e Gabriela).
 - *Documento inicial ProtKAGG.pdf: arquivo em PDF do primeiro planejamento do ProtKagg e proposta do projeto*
