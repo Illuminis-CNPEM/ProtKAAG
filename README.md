@@ -13,7 +13,8 @@
 - Para entender um pouco do que seriam a tradução do códon para aminoácido seria importante acessar o arquivo "Dicionário de Códons".
 - Se ele representa uma região inteiramente codificante, o código vai retornar apenas o RNA correspondente e qual proteína seria.
 - Caso ele não represente uma região inteiramente codificante, o código vai retornar o RNA correspondente, 3 frames possíveis. Esses frames se referem a maneira como a sequência é lida e traduzida em proteínas. O DNA é composto por uma sequência de nucleotídeos, que podem ser agrupados em conjuntos de 3, chamados de "códons". Cada códon corresponde a um amnoácido específico.
-- Depois de retornar os três frames, ele vai dar possíveis proteínas que podem ser formadas a partir de cada frame. 
+- Depois de retornar os três frames, ele vai dar possíveis proteínas que podem ser formadas a partir de cada frame.
+- Para descobrir qual a sua proteína, você pode visitar o site https://www.ebi.ac.uk/Tools/sss/fasta/ 
 
 **Explicação dos arquivos:**
 - Até o momento (06/06/23), conseguimos pegar uma sequência de DNA fornecida pelo usuário e a partir dela gerar os frames (3 frames) e possíveis proteínas codificadas por essa sequência.
