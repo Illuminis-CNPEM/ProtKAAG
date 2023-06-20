@@ -12,7 +12,7 @@
 (fonte: https://pt.wikipedia.org/wiki/Regi%C3%A3o_de_codifica%C3%A7%C3%A3o).
 - Para entender um pouco do que seriam a tradução do códon para aminoácido seria importante acessar o arquivo "Dicionário de Códons".
 - Se ele representa uma região inteiramente codificante, o código vai retornar apenas o RNA correspondente e qual proteína seria.
-- Caso ele não represente uma região inteiramente codificante, o código vai retornar o RNA correspondente, 3 frames possíveis. Esses frames se referem a maneira como a sequência é lida e traduzida em proteínas. O DNA é composto por uma sequência de nucleotídeos, que podem ser agrupados em conjuntos de 3, chamados de "códons". Cada códon corresponde a um amnoácido específico.
+- Caso ele não represente uma região inteiramente codificante, o código vai retornar o RNA correspondente, 3 frames possíveis. Esses frames se referem a maneira como a sequência é lida e traduzida em proteínas. O DNA é composto por uma sequência de nucleotídeos, que podem ser agrupados em conjuntos de 3, chamados de "códons". Cada códon corresponde a um aminoácido específico. Vale mencionar que o código genético é degenerado, o que significa que o mesmo aminoácido pode ser traduzido a partir de diferentes códons.
 - Depois de retornar os três frames, ele vai dar possíveis proteínas que podem ser formadas a partir de cada frame.
 - Para descobrir qual a sua proteína, você pode visitar o site https://www.ebi.ac.uk/Tools/sss/fasta/ 
 
