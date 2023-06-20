@@ -171,6 +171,6 @@ def best_prot(fr_1, fr_2, fr_3):
     while len(pprotTlist) != 0:
         minimo = encontra_minimo_string(pprotTlist)
         pprotTlist_ord.insert(0, minimo)
-        lista.remove(minimo)
+        pprotTlist.remove(minimo)
     return pprotTlist_ord
 
